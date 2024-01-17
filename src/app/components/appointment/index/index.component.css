@@ -1,0 +1,56 @@
+#home{
+    background-color: #5b5b5b;
+}
+
+#home h3{
+    color: #015db1;
+    font-weight: bold;
+}
+
+.card-box{
+    min-height: 11rem;
+}
+
+.title{
+    color: #164479;
+    margin: 0;
+    font-weight: bold;
+}
+
+.subtitle{
+    color: #46b5fe;
+    margin: 0;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.title2{
+    color: #ff750f;
+    margin: 0;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.subtitle2{
+    color: #ff750f;
+    margin: 0;
+    font-size: 12px;
+}
+
+
+h4{
+    color: #57bbff;
+}
+
+.text-click-blue{
+    color: #57bbff;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.whatsapp{
+    background-color: #57bbff;
+    color: #fff;
+    font-size: 13px;
+}

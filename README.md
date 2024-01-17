@@ -1,27 +1,51 @@
-# Vacunacion
+# sonetasot
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
+## Repositorio
 
-## Development server
+- **Usuario de GitHub:** [@JUzielCrz](https://github.com/JUzielCrz)
+- **Proyecto:** [Sonetasot](https://github.com/JUzielCrz/sonetasot_angular)
+- **Clonar:** `git clone https://github.com/JUzielCrz/sonetasot_angular.git`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Angular
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Proyecto: Vacunacion
 
-## Build
+- **Versión:** 14.0.0
+- **Node:** 16.20.0
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Rutas establecidas en el proyecto:
+    http://localhost:4200/appointment/index
+    http://localhost:4200/appointment/register/completed
 
-## Running unit tests
+### Instalación de Angular CLI:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Abre una terminal o línea de comandos y ejecuta el siguiente comando para instalar Angular CLI de forma global:
 
-## Running end-to-end tests
+```bash
+    npm install -g @angular/cli
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Clonar el repositorio del proyecto:
+```bash
+    git clone https://github.com/tu-usuario/tu-proyecto-angular.git
+```
+    ubicarse en la terminarcon cd dentro del directorio del proyecto vacunacion
 
-## Further help
+### Instalación de dependencias:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Navega al directorio del proyecto clonado e instala las dependencias ejecutando:
+```bash
+    npm install
+```
+
+### Ejecutar la aplicación:
+
+Después de la instalación de dependencias, puedes ejecutar la aplicación con el siguiente comando:
+
+```bash
+    ng serve
+```
+### Acceder a la aplicación:
+
+Abre un navegador web y navega a http://localhost:4200/

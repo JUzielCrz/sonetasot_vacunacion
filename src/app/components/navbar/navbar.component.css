@@ -1,0 +1,8 @@
+.navbar{
+    min-height: 6rem;
+    background-color: white;
+}
+
+.nav-item a{
+    color: #24b8de;
+}

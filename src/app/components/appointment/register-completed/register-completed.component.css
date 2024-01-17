@@ -1,0 +1,26 @@
+.title{
+    color: #164479;
+    margin: 0;
+    font-weight: bold;
+}
+
+.subtitle{
+    color: #46b5fe;
+    margin: 0;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.title2{
+    color: #ff750f;
+    margin: 0;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.subtitle2{
+    color: #ff750f;
+    margin: 0;
+    font-size: 12px;
+}
