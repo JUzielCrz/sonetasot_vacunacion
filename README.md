@@ -3,8 +3,8 @@
 ## Repositorio
 
 - **Usuario de GitHub:** [@JUzielCrz](https://github.com/JUzielCrz)
-- **Proyecto:** [Sonetasot](https://github.com/JUzielCrz/sonetasot_angular)
-- **Clonar:** `git clone https://github.com/JUzielCrz/sonetasot_angular.git`
+- **Proyecto:** [Sonetasot](https://github.com/JUzielCrz/sonetasot_vacunacion)
+- **Clonar:** `git clone https://github.com/JUzielCrz/sonetasot_vacunacion.git`
 
 
 ## Angular
