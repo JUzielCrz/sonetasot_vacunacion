@@ -14,9 +14,11 @@
 - **Versión:** 14.0.0
 - **Node:** 16.20.0
 
-Rutas establecidas en el proyecto:
+```bash
+    Rutas establecidas en el proyecto:
     http://localhost:4200/appointment/index
     http://localhost:4200/appointment/register/completed
+```
 
 ### Instalación de Angular CLI:
 
